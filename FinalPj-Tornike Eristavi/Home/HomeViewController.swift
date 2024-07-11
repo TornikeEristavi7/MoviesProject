@@ -135,4 +135,4 @@ extension HomeViewController: UICollectionViewDataSource, UICollectionViewDelega
         detailVC.movieID = selectedMovie.id
         navigationController?.pushViewController(detailVC, animated: true)
     }
-}
+} 
